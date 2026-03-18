@@ -4,15 +4,15 @@ import path from "path"
 
 const dbPath = path.join(process.cwd(), "database", "lenny_insights.db")
 
-async function getDB() {
+ function getDB() {
   return open({
     filename: dbPath,
     driver: sqlite3.Database,
   })
 }
 
-export async function getMechanisms() {
-  const db = await getDB()
+export  function getMechanisms() {
+  const db =  getDB()
 
   return db.all(`
       SELECT
@@ -28,8 +28,8 @@ export async function getMechanisms() {
   `)
 }
 
-export async function getInsightsByMechanism(id: string) {
-  const db = await getDB()
+export  function getInsightsByMechanism(id: string) {
+  const db =  getDB()
 
   return db.all(
     `
@@ -49,8 +49,8 @@ export async function getInsightsByMechanism(id: string) {
   )
 }
 
-export async function getMechanismById(id: string) {
-  const db = await getDB()
+export  function getMechanismById(id: string) {
+  const db =  getDB()
 
   return db.get(
     `

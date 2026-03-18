@@ -1,13 +1,12 @@
-export const dynamic = "force-dynamic"
 
-import { getInsightsByMechanism, getMechanismById } from "@/lib/db"
+import { getInsightsByMechanism, getMechanismById } from "@/lib/data"
 import InsightCard from "@/components/InsightCard"
 import Link from "next/link"
 
-export default async function MechanismPage({ params }: any) {
+export default function MechanismPage({ params }: any) {
 
-  const mechanism = await getMechanismById(params.id)
-  const insights = await getInsightsByMechanism(params.id)
+  const mechanism =  getMechanismById(params.id)
+  const insights =  getInsightsByMechanism(params.id)
 
   return (
     <main style={{ minHeight: "100vh", padding: "0 0 80px" }}>

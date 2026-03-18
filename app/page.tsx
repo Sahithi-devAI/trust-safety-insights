@@ -1,10 +1,8 @@
-export const dynamic = "force-dynamic"
-
-import { getMechanisms } from "@/lib/db"
+import { getMechanisms } from "@/lib/data"
 import MechanismCard from "@/components/MechanismCard"
 
-export default async function Home() {
-  const mechanisms = await getMechanisms()
+export default function Home() {
+  const mechanisms = getMechanisms()
 
   return (
     <main style={{ minHeight: "100vh", padding: "0 0 80px" }}>

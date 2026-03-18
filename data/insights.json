@@ -1,0 +1,518 @@
+{
+  "mechanisms": [
+    {
+      "id": 0,
+      "mechanism": "Platforms must gradually expose users to power, community, and risk so adoption grows without overwhelming the system.",
+      "iroh_heading": "Strong tea arrives cup by cup",
+      "iroh_quote": "A wise tea master does not serve the strongest brew first.\nHe lets the flavor deepen with each cup.\nOtherwise the guest spends the evening awake\u2026 and slightly suspicious of the tea.",
+      "insight_count": 8
+    },
+    {
+      "id": 1,
+      "mechanism": "Effective teams navigate constraints by choosing the right lever\u2014escalation, negotiation, or collaboration\u2014to move progress forward.",
+      "iroh_heading": "Rivers reach seas by flowing around.",
+      "iroh_quote": "The river reaches the sea not by fighting every stone.\nIt finds the path that carries it forward.\nAnd when the stone is very stubborn, the river simply waits. Rivers are patient that way.",
+      "insight_count": 3
+    },
+    {
+      "id": 2,
+      "mechanism": "Platforms naturally amplify the already powerful unless they are designed to lift new voices.",
+      "iroh_heading": "Taller trees steal sunlight first.",
+      "iroh_quote": "When a river flows downhill, the water always gathers in the deepest valley.\nIf the gardener does nothing, the same trees grow taller while the smaller ones live forever in shadow",
+      "insight_count": 5
+    },
+    {
+      "id": 3,
+      "mechanism": "People optimize for incentives, so poorly designed incentives push systems toward manipulation, misinformation, or exploitation",
+      "iroh_heading": "Reward speed, expect crooked paths",
+      "iroh_quote": "If you reward the fastest runner, do not be surprised when people begin to cut across the fields.",
+      "insight_count": 7
+    },
+    {
+      "id": 4,
+      "mechanism": "Users trust systems more when they can understand how decisions are made and verify that the system behaves as claimed.",
+      "iroh_heading": "Closed gates grow suspicious minds.",
+      "iroh_quote": "A locked door invites suspicion.\nAn open gate invites understanding.\nThough someone will inevitably wander in asking where the snacks are.",
+      "insight_count": 15
+    },
+    {
+      "id": 5,
+      "mechanism": "Great products prioritize meaningful, reliable outputs over sheer volume.",
+      "iroh_heading": "One arrow beats ten hurried ones.",
+      "iroh_quote": "Ten hurried arrows rarely find the target. \nOne well-aimed arrow is enough.\nThe other nine usually end up somewhere embarrassing.\u201d",
+      "insight_count": 6
+    },
+    {
+      "id": 6,
+      "mechanism": "Decision quality comes from disciplined thinking",
+      "iroh_heading": "Hurried minds travel useless miles",
+      "iroh_quote": "When the mind is in a hurry, it often runs in circles.\nVery impressive exercise, but not much progress.\u201d",
+      "insight_count": 2
+    },
+    {
+      "id": 7,
+      "mechanism": "Small design choices quietly shape how people behave.",
+      "iroh_heading": "Better roads make longer journeys.",
+      "iroh_quote": "A traveler will walk farther on a well-lit path than on a dark and difficult road.\nChange the path, and you change the journey.You also hear far fewer complaints about sore feet.",
+      "insight_count": 11
+    }
+  ],
+  "insights": [
+    {
+      "cluster_id": 0,
+      "insight": "Proactive qualitative screening of users reduces platform risks and fosters positive engagement.",
+      "evidence_quote": "So as people went through, we would take samplings of creators who were onboarding and signing up and launching their pages, and we would actually look at who the creator was and what they were doing.",
+      "guest": "Adam Fishman",
+      "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+      "youtube_url": "https://www.youtube.com/watch?v=wP8YyWH524A"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Offering premium features to free users can boost upgrades but risks perceived value dilution and dissatisfaction.",
+      "evidence_quote": "\"Okay, what if we actually sampled a number of different paid suggestions and interspersed them to free users across their writing?\"",
+      "guest": "Albert Cheng",
+      "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+      "youtube_url": "https://www.youtube.com/watch?v=2BKmNmnEj9w"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Products that demonstrate real value to early users before launch can use their feedback as social proof to drive initial adoption.",
+      "evidence_quote": "So in every app I have ever put on the App Store, on the day I launch the app in the app store, they are 25 5-star reviews.",
+      "guest": "Christian Idiodi",
+      "title": "The essence of product management | Christian Idiodi (SVPG)",
+      "youtube_url": "https://www.youtube.com/watch?v=SXYc5RoU3Lg"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Critical releases with late-stage risk assessment increase the likelihood of unforeseen harm and negative user experiences.",
+      "evidence_quote": "When we make the decision to go live to the rest of the customer base and asking sales to start selling, that's where I'll really come in.",
+      "guest": "Geoff Charles",
+      "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+      "youtube_url": "https://www.youtube.com/watch?v=aNJDZ_RzTVk"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Overly ambitious feature launches can confuse users and increase product risk.",
+      "evidence_quote": "We tried to get it all at once. We tried to launch a new blockchain. It was a basket of currencies originally. It was integration into WhatsApp and Messenger, and I think the whole world kind of went like, 'Oh my'",
+      "guest": "Kevin Weil",
+      "title": "OpenAI\u2019s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+      "youtube_url": "https://www.youtube.com/watch?v=scsW6_2SPC4"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Letting users experience the full power of a product early through a reverse trial creates strong aha moments that make freemium limits feel like a natural upgrade rather than a restriction.",
+      "evidence_quote": "offer a trial but also offer freemium. The reason why I like this is you get an opportunity when somebody shows up and says, 'Hey, I'm going to give your product a try today,' to show them everything that's possible.",
+      "guest": "Lauryn Isford",
+      "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Pushing premium features prematurely can overwhelm users and hinder learning, risking poor initial experiences.",
+      "evidence_quote": "we'd prefer if customers use premium features because then they might be more likely to become premium customers, but that is not in the best interest of educating a user on how to get started.",
+      "guest": "Lauryn Isford",
+      "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA"
+    },
+    {
+      "cluster_id": 0,
+      "insight": "Setting protective defaults and requiring parental permission to override them can strengthen safety for minors while still allowing flexibility when supervision is present.",
+      "evidence_quote": "And so it's interesting that we're really going to create an incentive for teens to get their parents involved and to actually set up parental supervision, especially because one of the default settings is a private account.",
+      "guest": "Naomi Gleit",
+      "title": "Meta\u2019s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit",
+      "youtube_url": "https://www.youtube.com/watch?v=sTYuKgzZoL8"
+    },
+    {
+      "cluster_id": 1,
+      "insight": "Marketplace dynamics often create power asymmetries, pushing suppliers to undertake unfavorable actions to meet platform demands. ",
+      "evidence_quote": "So drivers end up getting housed. Airbnb hosts get pushed to do things they may not want to do.",
+      "guest": "Anuj Rathi",
+      "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+      "youtube_url": "https://www.youtube.com/watch?v=1sClhfuCxP0"
+    },
+    {
+      "cluster_id": 1,
+      "insight": "When teams do not escalate problems early, leadership cannot adjust constraints, leading to misaligned expectations and poor outcomes.",
+      "evidence_quote": "And then I respond. Yeah, of course I don't understand this situation because you haven't told me about it. How am I supposed to evaluate things fairly if you don't let me know what's really going on?",
+      "guest": "Casey Winters",
+      "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+      "youtube_url": "https://www.youtube.com/watch?v=WlRfyEpAKxw"
+    },
+    {
+      "cluster_id": 1,
+      "insight": "Persisting against power asymmetries can yield unexpected benefits, but carries risks if not managed carefully.",
+      "evidence_quote": "Dude, you were so stubborn on this point, but I think it actually ended up being in net benefit because we got a great deal with them.",
+      "guest": "Jason Droege",
+      "title": "Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next",
+      "youtube_url": "https://www.youtube.com/watch?v=W99jdYZOlN0"
+    },
+    {
+      "cluster_id": 2,
+      "insight": "Failure to detect and address marginal user experiences can exacerbate power asymmetries, leading to poor user engagement.",
+      "evidence_quote": "So then it gives you your list. Okay, the language is probably wrong. We didn't get that.",
+      "guest": "Adriel Frederick",
+      "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4"
+    },
+    {
+      "cluster_id": 2,
+      "insight": "Recommendation systems that prioritize celebrity creators over emerging creators risk reinforcing power concentration and reducing ecosystem diversity.",
+      "evidence_quote": "And so it doesn't mean that we shouldn't recommend celebrities, but Jeff recommended celebrities to people who are already on there.",
+      "guest": "Bangaly Kaba",
+      "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+    },
+    {
+      "cluster_id": 2,
+      "insight": "Power imbalances can lead to repeated, ineffective engagement strategies, causing user frustration.",
+      "evidence_quote": "\"And so you're disappointed again. You go back, you bring a banana. 'I hated bananas since I was a kid.'\"",
+      "guest": "Chandra Janakiraman",
+      "title": "An operator\u2019s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+      "youtube_url": "https://www.youtube.com/watch?v=WFLH8Af2f30"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Incentivizing high user engagement can lead to prioritizing superficial interactions over quality content, potentially harming users.",
+      "evidence_quote": "Silicon Valley loves maximizing time spent and just increasing the number of conversations you're having with it.",
+      "guest": "Edwin Chen",
+      "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+      "youtube_url": "https://www.youtube.com/watch?v=dduQeaqmpnI"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "User-centric design focusing on aesthetics over functionality can mislead and frustrate users, masking deeper issues.",
+      "evidence_quote": "And it never materializes into anything meaningful because again, if you're doing it as a step towards unlocking new global maxima, sure, I love that. Do it. Go after it. Know that you have a ton of work ahead of you in order to actually unlock that global maxima.",
+      "guest": "Elena Verna 3.0",
+      "title": "The ultimate guide to product-led sales | Elena Verna",
+      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Focusing on surface-level simplification without resolving underlying issues risks harming user experience and misdirecting efforts.",
+      "evidence_quote": "simplifying may be an initiative of a different problem that you're solving, but if you ever have a line item on your roadmap that says simplified onboarding, please cross it out. It's not going to work because simplifying onboarding is an action.",
+      "guest": "Elena Verna 3.0",
+      "title": "The ultimate guide to product-led sales | Elena Verna",
+      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Intentional opt-out options reduce forced engagement, enhancing user satisfaction and reducing harmful interactions.",
+      "evidence_quote": "And the learning here was that this intentionality of saying, no, I want it... Previously it was just a continue button, but now it's like, no, I want to hit 30 days, and having that be an intentional decision",
+      "guest": "Jackson Shuttleworth",
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Monetizing user engagement through features like streak freezes can incentivize artificial activity, undermining genuine user value and experience.",
+      "evidence_quote": "We're actively working on an experiment, right now that involves buying a streak freeze...",
+      "guest": "Jackson Shuttleworth",
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Visual feedback mechanisms can encourage consistent user behavior by recognizing effort without demanding strict adherence.",
+      "evidence_quote": "if you don't use the streak freeze for a few days, we make your streak look gold, and we make your little progress bar on the calendar just look a little bit nicer.",
+      "guest": "Jackson Shuttleworth",
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Placing key motivators in inconspicuous locations diminishes their impact, risking lower user engagement.",
+      "evidence_quote": "if you're going to build a streak, and then you're going to [inaudible 01:17:06] it off into the corner of your app, where users aren't going to see it, they're probably not going to care about it as much",
+      "guest": "Jackson Shuttleworth",
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Push notifications and visibility incentives risk reducing DAU and revenue by prioritizing short-term engagement over long-term user value.",
+      "evidence_quote": "You move tweets down, you move ads down, DAU goes down, revenue goes down.",
+      "guest": "Kayvon Beykpour",
+      "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "High cognitive load from user tasks increases the risk of disengagement and underutilization of a product.",
+      "evidence_quote": "\"It's too much work. And so, sometimes, any kind of work that we put on the user, we should be skeptical. We have to really prove that it's worth their time\"",
+      "guest": "Kristen Berman",
+      "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
+      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Adding cognitive friction through confirmations can reduce harmful user behaviors while impacting engagement.",
+      "evidence_quote": "We popped up something that said, 'Are you sure?' And this was basically slowing people down.",
+      "guest": "Kristen Berman",
+      "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
+      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30"
+    },
+    {
+      "cluster_id": 2,
+      "insight": "When users follow a recommendation and the outcome is bad, they often attribute part of the blame to the system that made the recommendation.",
+      "evidence_quote": "if you order the dish the wait person recommended and you don't like it, whose fault is it? Well, technically it's your fault because you ordered it, but it's also kind of their fault because they recommended it.",
+      "guest": "Matt Dixon",
+      "title": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon",
+      "youtube_url": "https://www.youtube.com/watch?v=cUzEgRetmC4"
+    },
+    {
+      "cluster_id": 7,
+      "insight": "Ignoring local cultural specifics can lead to misaligned product strategies, harming user experience and engagement.",
+      "evidence_quote": "And if we had actually listened to that, it would cause all kinds of problems.",
+      "guest": "Gina Gotthilf",
+      "title": "Scaling Duolingo, embracing failure, and insight into Latin America\u2019s tech scene | Gina Gotthilf",
+      "youtube_url": "https://www.youtube.com/watch?v=sWClFYdbkRA"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Visible branding increases user awareness of a companys operations, enhancing transparency and trust.",
+      "evidence_quote": "but I think it's also really important that people saw what was happening.",
+      "guest": "Kevin Aluwi",
+      "title": "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA\u2019s biggest startup | Kevin Aluwi (Gojek)",
+      "youtube_url": "https://www.youtube.com/watch?v=HVB-dqjUJks"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Compensation models must balance costs and incentives to avoid undermining service reliability and user trust.",
+      "evidence_quote": "It still keeps prices reasonable for users, doesn't create bad incentives where you end up with riders not getting picked up when they really need a ride because I didn't want Rick to break his hip.",
+      "guest": "Adriel Frederick",
+      "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Transparency in communication helps protect user trust by clarifying product intentions and dispelling misconceptions.",
+      "evidence_quote": "All you can do is be as honest and transparent. What I will say is a lot of people still think we try to make Wordle harder, we don't, I promise.",
+      "guest": "Alex Hardimen",
+      "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+      "youtube_url": "https://www.youtube.com/watch?v=y3-cwoHMwQs"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Transparency in product development processes enhances user trust and comprehension.",
+      "evidence_quote": "We want to make the process transparent. We want to show people exactly what the agent is doing.",
+      "guest": "Amjad Masad",
+      "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+      "youtube_url": "https://www.youtube.com/watch?v=Bp_h674oIhw"
+    },
+    {
+      "cluster_id": 2,
+      "insight": "Designing platforms to treat all users equally can reduce power asymmetries and protect user trust, regardless of user status or celebrity influence.",
+      "evidence_quote": "if I followed you, Lenny, or if I followed Kim Kardashian, I followed Selena Gomez, all follows were treated like they were equally important.",
+      "guest": "Bangaly Kaba",
+      "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Transparency in AI vs. human interaction disclosure builds user trust and prevents deception.",
+      "evidence_quote": "you have to disclose to users when you talk, if the bot is talking to is human or AI.",
+      "guest": "Chip Huyen",
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "youtube_url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Engaging with and providing value to potential audience members can build trust and drive organic growth.",
+      "evidence_quote": "\"And you go find everyone that's asking questions about quilting and answer their questions with strong, good answers. They're going to look at your bio and be like, 'Oh my gosh, this person knows their stuff about this topic. Let's go see what they do.'\"",
+      "guest": "Chris Hutchins",
+      "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+      "youtube_url": "https://www.youtube.com/watch?v=kc1XhB4k0Eg"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Efficiency concerns often override transparency, balancing openness with practicality to protect user trust and operational effectiveness.",
+      "evidence_quote": "But then you sort of have to, A, pick your battles, but then fight back. For instance, transparency, there have been times where individual org leader's like, 'Okay, Dharmesh, I know you believe in this transparency thing and Brian believes in this transparency thing, but it's inefficient for someone that is a SDR in the sales organization to have acc",
+      "guest": "Dharmesh Shah",
+      "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+      "youtube_url": "https://www.youtube.com/watch?v=dpw9Ue1HU48"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Transparency through open communication reduces misunderstandings and builds trust by providing context.",
+      "evidence_quote": "And in practice, that means I take notes in leadership meetings and I share those notes with the whole organization.",
+      "guest": "Elizabeth Stone",
+      "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+      "youtube_url": "https://www.youtube.com/watch?v=2XgU6T4DalY"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Automated account manipulation undermines community trust and genuine engagement, posing a risk to platforms relying on user-generated content.",
+      "evidence_quote": "\"I have a single person, I'm going to make 100 Reddit accounts. I'm going to autopost comments and then like my own comments.\"",
+      "guest": "Ethan Smith",
+      "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+      "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Focusing on community-generated signals (like reviews) can reduce costs while maintaining quality assurance, fostering transparency.",
+      "evidence_quote": "And I think that the other things are if you can get signal on what are the things around quality that people care about?",
+      "guest": "Failure",
+      "title": "Failure",
+      "youtube_url": "https://www.youtube.com/watch?v=9euy9gC48lc"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Generic messaging can diminish user engagement and trust by making communications feel impersonal and potentially misleading.",
+      "evidence_quote": "\"Given your background, blah, blah, blah, blah, blah.\" I asked the person right away, and this is where putting your product hat on and just being critical.",
+      "guest": "Hamel+Shreya",
+      "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar",
+      "youtube_url": "https://www.youtube.com/watch?v=BsWxPI9UM4c"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Incentive structures favoring viral content risk promoting misinformation at the expense of factual accuracy.",
+      "evidence_quote": "I tweet something people want to share, not truth.",
+      "guest": "Howie Liu",
+      "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+      "youtube_url": "https://www.youtube.com/watch?v=GT0jtVjRy2E"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Reducing transparency in user data access can erode trust and satisfaction, posing a risk to customer relationships.",
+      "evidence_quote": "I hate the fact that I can't search my email to see what I ordered.",
+      "guest": "Kayvon Beykpour",
+      "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Financial incentives from dominant platforms can create power asymmetries, undermining trust and competitiveness among smaller creators.",
+      "evidence_quote": "They were just like, \"Cool, we're going to pay you a bunch of money to stream exclusively with us.\" So they hit us from all sides.",
+      "guest": "Kayvon Beykpour",
+      "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Maintaining high transparency standards protects user trust by ensuring information is accurate and unbiased.",
+      "evidence_quote": "we want to show a note when it's going to be helpful, when it's not going to appear biased and undermine trust in the system.",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Content moderation policies can increase post removal, reducing misinformation spread and protecting user trust.",
+      "evidence_quote": "authors become 80% more likely to decrease, sorry, to delete their post after they get noted, which okay, that's great, because less misinfo out there, but I",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Transparency in service operations builds user trust through verifiable integrity and accountability.",
+      "evidence_quote": "People should be able to take the code and data and replicate the whole service and that we have done exactly what we've said we've done.",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Agreeing on objective facts enhances user trust by validating the existence of verifiable information, even in polarized settings.",
+      "evidence_quote": "Facts matter, there are facts that we can all agree on.",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Anonymity reduces social backlash but increases risks of polarized and potentially harmful content.",
+      "evidence_quote": "people are actually more willing to cross partisan boundaries when they are anonymous or pseudonymous than when they are under their real name, and it intuitively makes a lot of sense.",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Pricing models with commission structures can incentivize intermediaries to compromise user trust for higher profits.",
+      "evidence_quote": "This explains why everyone's pulling agents. That's where the money's at, what you're telling us here.",
+      "guest": "Madhavan Ramanujam 2.0",
+      "title": "The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)",
+      "youtube_url": "https://www.youtube.com/watch?v=A6veeCbKIzw"
+    },
+    {
+      "cluster_id": 3,
+      "insight": "Unbalanced directness in communication can erode trust and foster unhealthy interactions, highlighting the need for reciprocal dialogue.",
+      "evidence_quote": "If it is one person being really direct with another person and then the other person being afraid to talk, you will end up in probably a not great relationship where communication is only going one way.",
+      "guest": "Mihika Kapoor",
+      "title": "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)",
+      "youtube_url": "https://www.youtube.com/watch?v=uDq6_CPaRjM"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Prioritizing speed over thoroughness in experimentation can lead to unimpactful results and undermine long-term product success.",
+      "evidence_quote": "Usually everyone's like, move faster, we need more and ship more experiments.",
+      "guest": "Bangaly Kaba",
+      "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Addressing reliability concerns by blending unique features with standardized quality ensures customer satisfaction across platforms.",
+      "evidence_quote": "And so what we found is that reliability is Airbnb's achilles heel, or at least it has been.",
+      "guest": "Brian Chesky",
+      "title": "Brian Chesky\u2019s new playbook",
+      "youtube_url": "https://www.youtube.com/watch?v=4ef0juAMqoE"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Built-in validation ensures data integrity, preventing customer trust issues by promptly notifying teams of errors.",
+      "evidence_quote": "We have a built-in validation layer that stops any bad data from entering your system, and OneSchema will notify your team immediately of any data that looks incorrect.",
+      "guest": "Jonathan Lowenhar",
+      "title": "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)",
+      "youtube_url": "https://www.youtube.com/watch?v=s0jn7eE33nk"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Prioritizing high-quality content over quantity protects user trust and ensures reliability.",
+      "evidence_quote": "I think Keith and I both believe that we live or die based on the quality of the notes at the end of the day. So we'd rather not show a note that maybe good, but we didn't have enough signal on than the other way around.",
+      "guest": "Keith Coleman & Jay Baxter",
+      "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Prioritizing robust and reliable user experiences over additional features ensures long-term customer trust and stability.",
+      "evidence_quote": "\"are we giving customers a robust and reliable experience on our API?\"",
+      "guest": "Logan Kilpatrick",
+      "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+      "youtube_url": "https://www.youtube.com/watch?v=XkMbkWG2ca4"
+    },
+    {
+      "cluster_id": 5,
+      "insight": "Prioritizing core values over sales pressures ensures transparent and trustworthy product development, enhancing user satisfaction and trust.",
+      "evidence_quote": "So, when you see people saying like, 'Wow, Linear is so much faster. It's so much easier to use and it makes my work so much more enjoyable.' This is the reason because we have not taken a single step in this direction.",
+      "guest": "Nan Yu",
+      "title": "Linear\u2019s secret to building beloved B2B products | Nan Yu (Head of Product)",
+      "youtube_url": "https://www.youtube.com/watch?v=nTr21kgCFF4"
+    },
+    {
+      "cluster_id": 6,
+      "insight": "Clear thinking and data-driven approaches reduce governance risks by ensuring sound product decisions and protecting user interests.",
+      "evidence_quote": "And there's a lot of respect for someone who has a real clarity of thought and brings a high bar and is not simply going with the flow.",
+      "guest": "Jag Duggal",
+      "title": "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)",
+      "youtube_url": "https://www.youtube.com/watch?v=8A7wXK2MncQ"
+    },
+    {
+      "cluster_id": 6,
+      "insight": "Rigorous evaluation processes protect against poor decisions by ensuring comprehensive analysis and feedback.",
+      "evidence_quote": "And that's why they force you to write six pages in depth about your idea and then it goes in these concentric circles through the company.",
+      "guest": "Maggie Crowley",
+      "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+      "youtube_url": "https://www.youtube.com/watch?v=4LjddcccYIo"
+    },
+    {
+      "cluster_id": 4,
+      "insight": "Freeing technical knowledge through open-access resources enhances user competence and reduces vulnerability risks.",
+      "evidence_quote": "But these were just, they're all out there in the public domain. There's no paywall to get access to those.",
+      "guest": "Ben Williams",
+      "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "youtube_url": "https://www.youtube.com/watch?v=21sFTZzIfUk"
+    }
+  ]
+}
