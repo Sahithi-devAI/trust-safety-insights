@@ -16,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
-      <body className={`${cinzel.variable} ${lora.variable} ${noto.variable}`}>
+      <body className={`${cinzel.className} ${lora.className} ${noto.className}`}>
         {children}
       </body>
     </html>
