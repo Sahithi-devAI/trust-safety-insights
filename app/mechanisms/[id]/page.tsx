@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic"
+
 import { getInsightsByMechanism, getMechanismById } from "@/lib/db"
 import InsightCard from "@/components/InsightCard"
 import Link from "next/link"

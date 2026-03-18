@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic"
+
 import { getMechanisms } from "@/lib/db"
 import MechanismCard from "@/components/MechanismCard"
 
