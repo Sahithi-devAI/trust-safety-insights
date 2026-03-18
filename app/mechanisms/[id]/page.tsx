@@ -2,10 +2,10 @@ import { getInsightsByMechanism, getMechanismById } from "@/lib/db"
 import InsightCard from "@/components/InsightCard"
 import Link from "next/link"
 
-export default function MechanismPage({ params }: any) {
+export default async function MechanismPage({ params }: any) {
 
-  const mechanism = getMechanismById(params.id)
-  const insights = getInsightsByMechanism(params.id)
+  const mechanism = await getMechanismById(params.id)
+  const insights = await getInsightsByMechanism(params.id)
 
   return (
     <main style={{ minHeight: "100vh", padding: "0 0 80px" }}>

@@ -1,8 +1,8 @@
 import { getMechanisms } from "@/lib/db"
 import MechanismCard from "@/components/MechanismCard"
 
-export default function Home() {
-  const mechanisms = getMechanisms()
+export default async function Home() {
+  const mechanisms = await getMechanisms()
 
   return (
     <main style={{ minHeight: "100vh", padding: "0 0 80px" }}>

@@ -1,13 +1,20 @@
-import Database from "better-sqlite3"
+import sqlite3 from "sqlite3"
+import { open } from "sqlite"
 import path from "path"
 
 const dbPath = path.join(process.cwd(), "database", "lenny_insights.db")
 
-const db = new Database(dbPath)
+async function getDB() {
+  return open({
+    filename: dbPath,
+    driver: sqlite3.Database,
+  })
+}
 
-export function getMechanisms() {
-  return db
-    .prepare(`
+export async function getMechanisms() {
+  const db = await getDB()
+
+  return db.all(`
       SELECT
         mechanisms.id,
         mechanisms.mechanism,
@@ -18,28 +25,39 @@ export function getMechanisms() {
       LEFT JOIN good_insights
       ON good_insights.cluster_id = mechanisms.id
       GROUP BY mechanisms.id
-    `)
-    .all()
+  `)
 }
 
-export function getInsightsByMechanism(id: string) {
-  return db
-    .prepare(`
-      SELECT good_insights.id, good_insights.insight, good_insights.evidence_quote, episodes.guest, episodes.title,episodes.youtube_url
+export async function getInsightsByMechanism(id: string) {
+  const db = await getDB()
+
+  return db.all(
+    `
+      SELECT 
+        good_insights.id,
+        good_insights.insight,
+        good_insights.evidence_quote,
+        episodes.guest,
+        episodes.title,
+        episodes.youtube_url
       FROM good_insights
       JOIN episodes
       ON good_insights.episode_id = episodes.id
       WHERE cluster_id = ?
-    `)
-    .all(id)
+    `,
+    id
+  )
 }
 
-export function getMechanismById(id: string) {
-    return db
-      .prepare(`
-        SELECT *
-        FROM mechanisms
-        WHERE id = ?
-      `)
-      .get(id)
-  }
+export async function getMechanismById(id: string) {
+  const db = await getDB()
+
+  return db.get(
+    `
+      SELECT *
+      FROM mechanisms
+      WHERE id = ?
+    `,
+    id
+  )
+}
