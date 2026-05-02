@@ -64,7 +64,8 @@
       "evidence_quote": "So as people went through, we would take samplings of creators who were onboarding and signing up and launching their pages, and we would actually look at who the creator was and what they were doing.",
       "guest": "Adam Fishman",
       "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
-      "youtube_url": "https://www.youtube.com/watch?v=wP8YyWH524A"
+      "youtube_url": "https://www.youtube.com/watch?v=wP8YyWH524A",
+      "start_seconds": 2872
     },
     {
       "cluster_id": 0,
@@ -72,7 +73,8 @@
       "evidence_quote": "\"Okay, what if we actually sampled a number of different paid suggestions and interspersed them to free users across their writing?\"",
       "guest": "Albert Cheng",
       "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
-      "youtube_url": "https://www.youtube.com/watch?v=2BKmNmnEj9w"
+      "youtube_url": "https://www.youtube.com/watch?v=2BKmNmnEj9w",
+      "start_seconds": 1414
     },
     {
       "cluster_id": 0,
@@ -80,7 +82,8 @@
       "evidence_quote": "So in every app I have ever put on the App Store, on the day I launch the app in the app store, they are 25 5-star reviews.",
       "guest": "Christian Idiodi",
       "title": "The essence of product management | Christian Idiodi (SVPG)",
-      "youtube_url": "https://www.youtube.com/watch?v=SXYc5RoU3Lg"
+      "youtube_url": "https://www.youtube.com/watch?v=SXYc5RoU3Lg",
+      "start_seconds": 1541
     },
     {
       "cluster_id": 0,
@@ -88,7 +91,8 @@
       "evidence_quote": "When we make the decision to go live to the rest of the customer base and asking sales to start selling, that's where I'll really come in.",
       "guest": "Geoff Charles",
       "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
-      "youtube_url": "https://www.youtube.com/watch?v=aNJDZ_RzTVk"
+      "youtube_url": "https://www.youtube.com/watch?v=aNJDZ_RzTVk",
+      "start_seconds": 1238
     },
     {
       "cluster_id": 0,
@@ -96,7 +100,8 @@
       "evidence_quote": "We tried to get it all at once. We tried to launch a new blockchain. It was a basket of currencies originally. It was integration into WhatsApp and Messenger, and I think the whole world kind of went like, 'Oh my'",
       "guest": "Kevin Weil",
       "title": "OpenAI\u2019s CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
-      "youtube_url": "https://www.youtube.com/watch?v=scsW6_2SPC4"
+      "youtube_url": "https://www.youtube.com/watch?v=scsW6_2SPC4",
+      "start_seconds": 4790
     },
     {
       "cluster_id": 0,
@@ -104,7 +109,8 @@
       "evidence_quote": "offer a trial but also offer freemium. The reason why I like this is you get an opportunity when somebody shows up and says, 'Hey, I'm going to give your product a try today,' to show them everything that's possible.",
       "guest": "Lauryn Isford",
       "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
-      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA"
+      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA",
+      "start_seconds": 2354
     },
     {
       "cluster_id": 0,
@@ -112,7 +118,8 @@
       "evidence_quote": "we'd prefer if customers use premium features because then they might be more likely to become premium customers, but that is not in the best interest of educating a user on how to get started.",
       "guest": "Lauryn Isford",
       "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
-      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA"
+      "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA",
+      "start_seconds": 2984
     },
     {
       "cluster_id": 0,
@@ -120,7 +127,8 @@
       "evidence_quote": "And so it's interesting that we're really going to create an incentive for teens to get their parents involved and to actually set up parental supervision, especially because one of the default settings is a private account.",
       "guest": "Naomi Gleit",
       "title": "Meta\u2019s head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit",
-      "youtube_url": "https://www.youtube.com/watch?v=sTYuKgzZoL8"
+      "youtube_url": "https://www.youtube.com/watch?v=sTYuKgzZoL8",
+      "start_seconds": 3762
     },
     {
       "cluster_id": 1,
@@ -128,7 +136,8 @@
       "evidence_quote": "So drivers end up getting housed. Airbnb hosts get pushed to do things they may not want to do.",
       "guest": "Anuj Rathi",
       "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
-      "youtube_url": "https://www.youtube.com/watch?v=1sClhfuCxP0"
+      "youtube_url": "https://www.youtube.com/watch?v=1sClhfuCxP0",
+      "start_seconds": 3663
     },
     {
       "cluster_id": 1,
@@ -136,7 +145,8 @@
       "evidence_quote": "And then I respond. Yeah, of course I don't understand this situation because you haven't told me about it. How am I supposed to evaluate things fairly if you don't let me know what's really going on?",
       "guest": "Casey Winters",
       "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
-      "youtube_url": "https://www.youtube.com/watch?v=WlRfyEpAKxw"
+      "youtube_url": "https://www.youtube.com/watch?v=WlRfyEpAKxw",
+      "start_seconds": null
     },
     {
       "cluster_id": 1,
@@ -144,7 +154,8 @@
       "evidence_quote": "Dude, you were so stubborn on this point, but I think it actually ended up being in net benefit because we got a great deal with them.",
       "guest": "Jason Droege",
       "title": "Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next",
-      "youtube_url": "https://www.youtube.com/watch?v=W99jdYZOlN0"
+      "youtube_url": "https://www.youtube.com/watch?v=W99jdYZOlN0",
+      "start_seconds": 3599
     },
     {
       "cluster_id": 2,
@@ -152,7 +163,8 @@
       "evidence_quote": "So then it gives you your list. Okay, the language is probably wrong. We didn't get that.",
       "guest": "Adriel Frederick",
       "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
-      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4"
+      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4",
+      "start_seconds": null
     },
     {
       "cluster_id": 2,
@@ -160,7 +172,8 @@
       "evidence_quote": "And so it doesn't mean that we shouldn't recommend celebrities, but Jeff recommended celebrities to people who are already on there.",
       "guest": "Bangaly Kaba",
       "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
-      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ",
+      "start_seconds": 4724
     },
     {
       "cluster_id": 2,
@@ -168,7 +181,8 @@
       "evidence_quote": "\"And so you're disappointed again. You go back, you bring a banana. 'I hated bananas since I was a kid.'\"",
       "guest": "Chandra Janakiraman",
       "title": "An operator\u2019s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
-      "youtube_url": "https://www.youtube.com/watch?v=WFLH8Af2f30"
+      "youtube_url": "https://www.youtube.com/watch?v=WFLH8Af2f30",
+      "start_seconds": 1374
     },
     {
       "cluster_id": 7,
@@ -176,7 +190,8 @@
       "evidence_quote": "Silicon Valley loves maximizing time spent and just increasing the number of conversations you're having with it.",
       "guest": "Edwin Chen",
       "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
-      "youtube_url": "https://www.youtube.com/watch?v=dduQeaqmpnI"
+      "youtube_url": "https://www.youtube.com/watch?v=dduQeaqmpnI",
+      "start_seconds": 1563
     },
     {
       "cluster_id": 7,
@@ -184,7 +199,8 @@
       "evidence_quote": "And it never materializes into anything meaningful because again, if you're doing it as a step towards unlocking new global maxima, sure, I love that. Do it. Go after it. Know that you have a ton of work ahead of you in order to actually unlock that global maxima.",
       "guest": "Elena Verna 3.0",
       "title": "The ultimate guide to product-led sales | Elena Verna",
-      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ"
+      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ",
+      "start_seconds": 1270
     },
     {
       "cluster_id": 7,
@@ -192,7 +208,8 @@
       "evidence_quote": "simplifying may be an initiative of a different problem that you're solving, but if you ever have a line item on your roadmap that says simplified onboarding, please cross it out. It's not going to work because simplifying onboarding is an action.",
       "guest": "Elena Verna 3.0",
       "title": "The ultimate guide to product-led sales | Elena Verna",
-      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ"
+      "youtube_url": "https://www.youtube.com/watch?v=bxghtN-OlJQ",
+      "start_seconds": 4448
     },
     {
       "cluster_id": 7,
@@ -200,7 +217,8 @@
       "evidence_quote": "And the learning here was that this intentionality of saying, no, I want it... Previously it was just a continue button, but now it's like, no, I want to hit 30 days, and having that be an intentional decision",
       "guest": "Jackson Shuttleworth",
       "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
-      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI",
+      "start_seconds": 1378
     },
     {
       "cluster_id": 7,
@@ -208,7 +226,8 @@
       "evidence_quote": "We're actively working on an experiment, right now that involves buying a streak freeze...",
       "guest": "Jackson Shuttleworth",
       "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
-      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI",
+      "start_seconds": 3056
     },
     {
       "cluster_id": 7,
@@ -216,7 +235,8 @@
       "evidence_quote": "if you don't use the streak freeze for a few days, we make your streak look gold, and we make your little progress bar on the calendar just look a little bit nicer.",
       "guest": "Jackson Shuttleworth",
       "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
-      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI",
+      "start_seconds": null
     },
     {
       "cluster_id": 7,
@@ -224,7 +244,8 @@
       "evidence_quote": "if you're going to build a streak, and then you're going to [inaudible 01:17:06] it off into the corner of your app, where users aren't going to see it, they're probably not going to care about it as much",
       "guest": "Jackson Shuttleworth",
       "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
-      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI"
+      "youtube_url": "https://www.youtube.com/watch?v=_CCwoQZH5hI",
+      "start_seconds": 4621
     },
     {
       "cluster_id": 7,
@@ -232,7 +253,8 @@
       "evidence_quote": "You move tweets down, you move ads down, DAU goes down, revenue goes down.",
       "guest": "Kayvon Beykpour",
       "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
-      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk",
+      "start_seconds": 3331
     },
     {
       "cluster_id": 7,
@@ -240,7 +262,8 @@
       "evidence_quote": "\"It's too much work. And so, sometimes, any kind of work that we put on the user, we should be skeptical. We have to really prove that it's worth their time\"",
       "guest": "Kristen Berman",
       "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
-      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30"
+      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30",
+      "start_seconds": 573
     },
     {
       "cluster_id": 7,
@@ -248,7 +271,8 @@
       "evidence_quote": "We popped up something that said, 'Are you sure?' And this was basically slowing people down.",
       "guest": "Kristen Berman",
       "title": "Using behavioral science to improve your product | Kristen Berman (Irrational Labs)",
-      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30"
+      "youtube_url": "https://www.youtube.com/watch?v=u53fplD_C30",
+      "start_seconds": 1903
     },
     {
       "cluster_id": 2,
@@ -256,7 +280,8 @@
       "evidence_quote": "if you order the dish the wait person recommended and you don't like it, whose fault is it? Well, technically it's your fault because you ordered it, but it's also kind of their fault because they recommended it.",
       "guest": "Matt Dixon",
       "title": "The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon",
-      "youtube_url": "https://www.youtube.com/watch?v=cUzEgRetmC4"
+      "youtube_url": "https://www.youtube.com/watch?v=cUzEgRetmC4",
+      "start_seconds": 2266
     },
     {
       "cluster_id": 7,
@@ -264,7 +289,8 @@
       "evidence_quote": "And if we had actually listened to that, it would cause all kinds of problems.",
       "guest": "Gina Gotthilf",
       "title": "Scaling Duolingo, embracing failure, and insight into Latin America\u2019s tech scene | Gina Gotthilf",
-      "youtube_url": "https://www.youtube.com/watch?v=sWClFYdbkRA"
+      "youtube_url": "https://www.youtube.com/watch?v=sWClFYdbkRA",
+      "start_seconds": 3687
     },
     {
       "cluster_id": 4,
@@ -272,7 +298,8 @@
       "evidence_quote": "but I think it's also really important that people saw what was happening.",
       "guest": "Kevin Aluwi",
       "title": "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA\u2019s biggest startup | Kevin Aluwi (Gojek)",
-      "youtube_url": "https://www.youtube.com/watch?v=HVB-dqjUJks"
+      "youtube_url": "https://www.youtube.com/watch?v=HVB-dqjUJks",
+      "start_seconds": 1438
     },
     {
       "cluster_id": 3,
@@ -280,7 +307,8 @@
       "evidence_quote": "It still keeps prices reasonable for users, doesn't create bad incentives where you end up with riders not getting picked up when they really need a ride because I didn't want Rick to break his hip.",
       "guest": "Adriel Frederick",
       "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
-      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4"
+      "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4",
+      "start_seconds": null
     },
     {
       "cluster_id": 4,
@@ -288,7 +316,8 @@
       "evidence_quote": "All you can do is be as honest and transparent. What I will say is a lot of people still think we try to make Wordle harder, we don't, I promise.",
       "guest": "Alex Hardimen",
       "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
-      "youtube_url": "https://www.youtube.com/watch?v=y3-cwoHMwQs"
+      "youtube_url": "https://www.youtube.com/watch?v=y3-cwoHMwQs",
+      "start_seconds": 2423
     },
     {
       "cluster_id": 4,
@@ -296,7 +325,8 @@
       "evidence_quote": "We want to make the process transparent. We want to show people exactly what the agent is doing.",
       "guest": "Amjad Masad",
       "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
-      "youtube_url": "https://www.youtube.com/watch?v=Bp_h674oIhw"
+      "youtube_url": "https://www.youtube.com/watch?v=Bp_h674oIhw",
+      "start_seconds": 964
     },
     {
       "cluster_id": 2,
@@ -304,7 +334,8 @@
       "evidence_quote": "if I followed you, Lenny, or if I followed Kim Kardashian, I followed Selena Gomez, all follows were treated like they were equally important.",
       "guest": "Bangaly Kaba",
       "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
-      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ",
+      "start_seconds": 4577
     },
     {
       "cluster_id": 4,
@@ -312,7 +343,8 @@
       "evidence_quote": "you have to disclose to users when you talk, if the bot is talking to is human or AI.",
       "guest": "Chip Huyen",
       "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
-      "youtube_url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
+      "youtube_url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4",
+      "start_seconds": 3812
     },
     {
       "cluster_id": 4,
@@ -320,7 +352,8 @@
       "evidence_quote": "\"And you go find everyone that's asking questions about quilting and answer their questions with strong, good answers. They're going to look at your bio and be like, 'Oh my gosh, this person knows their stuff about this topic. Let's go see what they do.'\"",
       "guest": "Chris Hutchins",
       "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
-      "youtube_url": "https://www.youtube.com/watch?v=kc1XhB4k0Eg"
+      "youtube_url": "https://www.youtube.com/watch?v=kc1XhB4k0Eg",
+      "start_seconds": 2834
     },
     {
       "cluster_id": 4,
@@ -328,7 +361,8 @@
       "evidence_quote": "But then you sort of have to, A, pick your battles, but then fight back. For instance, transparency, there have been times where individual org leader's like, 'Okay, Dharmesh, I know you believe in this transparency thing and Brian believes in this transparency thing, but it's inefficient for someone that is a SDR in the sales organization to have acc",
       "guest": "Dharmesh Shah",
       "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
-      "youtube_url": "https://www.youtube.com/watch?v=dpw9Ue1HU48"
+      "youtube_url": "https://www.youtube.com/watch?v=dpw9Ue1HU48",
+      "start_seconds": 5284
     },
     {
       "cluster_id": 4,
@@ -336,7 +370,8 @@
       "evidence_quote": "And in practice, that means I take notes in leadership meetings and I share those notes with the whole organization.",
       "guest": "Elizabeth Stone",
       "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
-      "youtube_url": "https://www.youtube.com/watch?v=2XgU6T4DalY"
+      "youtube_url": "https://www.youtube.com/watch?v=2XgU6T4DalY",
+      "start_seconds": null
     },
     {
       "cluster_id": 3,
@@ -344,7 +379,8 @@
       "evidence_quote": "\"I have a single person, I'm going to make 100 Reddit accounts. I'm going to autopost comments and then like my own comments.\"",
       "guest": "Ethan Smith",
       "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
-      "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
+      "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc",
+      "start_seconds": 1066
     },
     {
       "cluster_id": 4,
@@ -352,7 +388,8 @@
       "evidence_quote": "And I think that the other things are if you can get signal on what are the things around quality that people care about?",
       "guest": "Failure",
       "title": "Failure",
-      "youtube_url": "https://www.youtube.com/watch?v=9euy9gC48lc"
+      "youtube_url": "https://www.youtube.com/watch?v=9euy9gC48lc",
+      "start_seconds": 2612
     },
     {
       "cluster_id": 4,
@@ -360,7 +397,8 @@
       "evidence_quote": "\"Given your background, blah, blah, blah, blah, blah.\" I asked the person right away, and this is where putting your product hat on and just being critical.",
       "guest": "Hamel+Shreya",
       "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar",
-      "youtube_url": "https://www.youtube.com/watch?v=BsWxPI9UM4c"
+      "youtube_url": "https://www.youtube.com/watch?v=BsWxPI9UM4c",
+      "start_seconds": 5575
     },
     {
       "cluster_id": 3,
@@ -368,7 +406,8 @@
       "evidence_quote": "I tweet something people want to share, not truth.",
       "guest": "Howie Liu",
       "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
-      "youtube_url": "https://www.youtube.com/watch?v=GT0jtVjRy2E"
+      "youtube_url": "https://www.youtube.com/watch?v=GT0jtVjRy2E",
+      "start_seconds": 430
     },
     {
       "cluster_id": 4,
@@ -376,7 +415,8 @@
       "evidence_quote": "I hate the fact that I can't search my email to see what I ordered.",
       "guest": "Kayvon Beykpour",
       "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
-      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk",
+      "start_seconds": null
     },
     {
       "cluster_id": 3,
@@ -384,7 +424,8 @@
       "evidence_quote": "They were just like, \"Cool, we're going to pay you a bunch of money to stream exclusively with us.\" So they hit us from all sides.",
       "guest": "Kayvon Beykpour",
       "title": "Twitter\u2019s ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour",
-      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk"
+      "youtube_url": "https://www.youtube.com/watch?v=MKDnDueTvKk",
+      "start_seconds": 3930
     },
     {
       "cluster_id": 4,
@@ -392,7 +433,8 @@
       "evidence_quote": "we want to show a note when it's going to be helpful, when it's not going to appear biased and undermine trust in the system.",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 1247
     },
     {
       "cluster_id": 4,
@@ -400,7 +442,8 @@
       "evidence_quote": "authors become 80% more likely to decrease, sorry, to delete their post after they get noted, which okay, that's great, because less misinfo out there, but I",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 1725
     },
     {
       "cluster_id": 4,
@@ -408,7 +451,8 @@
       "evidence_quote": "People should be able to take the code and data and replicate the whole service and that we have done exactly what we've said we've done.",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 4468
     },
     {
       "cluster_id": 4,
@@ -416,7 +460,8 @@
       "evidence_quote": "Facts matter, there are facts that we can all agree on.",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 4966
     },
     {
       "cluster_id": 3,
@@ -424,7 +469,8 @@
       "evidence_quote": "people are actually more willing to cross partisan boundaries when they are anonymous or pseudonymous than when they are under their real name, and it intuitively makes a lot of sense.",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 5244
     },
     {
       "cluster_id": 3,
@@ -432,7 +478,8 @@
       "evidence_quote": "This explains why everyone's pulling agents. That's where the money's at, what you're telling us here.",
       "guest": "Madhavan Ramanujam 2.0",
       "title": "The art and science of pricing | Madhavan Ramanujam (Monetizing Innovation, Simon-Kucher)",
-      "youtube_url": "https://www.youtube.com/watch?v=A6veeCbKIzw"
+      "youtube_url": "https://www.youtube.com/watch?v=A6veeCbKIzw",
+      "start_seconds": 2876
     },
     {
       "cluster_id": 3,
@@ -440,7 +487,8 @@
       "evidence_quote": "If it is one person being really direct with another person and then the other person being afraid to talk, you will end up in probably a not great relationship where communication is only going one way.",
       "guest": "Mihika Kapoor",
       "title": "Vision, conviction, and hype: How to build 0 to 1 inside a company | Mihika Kapoor (Product, Figma)",
-      "youtube_url": "https://www.youtube.com/watch?v=uDq6_CPaRjM"
+      "youtube_url": "https://www.youtube.com/watch?v=uDq6_CPaRjM",
+      "start_seconds": 1807
     },
     {
       "cluster_id": 5,
@@ -448,7 +496,8 @@
       "evidence_quote": "Usually everyone's like, move faster, we need more and ship more experiments.",
       "guest": "Bangaly Kaba",
       "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
-      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ"
+      "youtube_url": "https://www.youtube.com/watch?v=Ub9UkWByFIQ",
+      "start_seconds": 2119
     },
     {
       "cluster_id": 5,
@@ -456,7 +505,8 @@
       "evidence_quote": "And so what we found is that reliability is Airbnb's achilles heel, or at least it has been.",
       "guest": "Brian Chesky",
       "title": "Brian Chesky\u2019s new playbook",
-      "youtube_url": "https://www.youtube.com/watch?v=4ef0juAMqoE"
+      "youtube_url": "https://www.youtube.com/watch?v=4ef0juAMqoE",
+      "start_seconds": 2396
     },
     {
       "cluster_id": 5,
@@ -464,7 +514,8 @@
       "evidence_quote": "We have a built-in validation layer that stops any bad data from entering your system, and OneSchema will notify your team immediately of any data that looks incorrect.",
       "guest": "Jonathan Lowenhar",
       "title": "How a great founder becomes a great CEO | Jonathan Lowenhar (co-founder of Enjoy The Work)",
-      "youtube_url": "https://www.youtube.com/watch?v=s0jn7eE33nk"
+      "youtube_url": "https://www.youtube.com/watch?v=s0jn7eE33nk",
+      "start_seconds": 528
     },
     {
       "cluster_id": 5,
@@ -472,7 +523,8 @@
       "evidence_quote": "I think Keith and I both believe that we live or die based on the quality of the notes at the end of the day. So we'd rather not show a note that maybe good, but we didn't have enough signal on than the other way around.",
       "guest": "Keith Coleman & Jay Baxter",
       "title": "An inside look at X\u2019s Community Notes | Keith Coleman & Jay Baxter",
-      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI"
+      "youtube_url": "https://www.youtube.com/watch?v=8dgyqYHLcCI",
+      "start_seconds": 1181
     },
     {
       "cluster_id": 5,
@@ -480,7 +532,8 @@
       "evidence_quote": "\"are we giving customers a robust and reliable experience on our API?\"",
       "guest": "Logan Kilpatrick",
       "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
-      "youtube_url": "https://www.youtube.com/watch?v=XkMbkWG2ca4"
+      "youtube_url": "https://www.youtube.com/watch?v=XkMbkWG2ca4",
+      "start_seconds": 2223
     },
     {
       "cluster_id": 5,
@@ -488,7 +541,8 @@
       "evidence_quote": "So, when you see people saying like, 'Wow, Linear is so much faster. It's so much easier to use and it makes my work so much more enjoyable.' This is the reason because we have not taken a single step in this direction.",
       "guest": "Nan Yu",
       "title": "Linear\u2019s secret to building beloved B2B products | Nan Yu (Head of Product)",
-      "youtube_url": "https://www.youtube.com/watch?v=nTr21kgCFF4"
+      "youtube_url": "https://www.youtube.com/watch?v=nTr21kgCFF4",
+      "start_seconds": 1036
     },
     {
       "cluster_id": 6,
@@ -496,7 +550,8 @@
       "evidence_quote": "And there's a lot of respect for someone who has a real clarity of thought and brings a high bar and is not simply going with the flow.",
       "guest": "Jag Duggal",
       "title": "Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google)",
-      "youtube_url": "https://www.youtube.com/watch?v=8A7wXK2MncQ"
+      "youtube_url": "https://www.youtube.com/watch?v=8A7wXK2MncQ",
+      "start_seconds": 1925
     },
     {
       "cluster_id": 6,
@@ -504,7 +559,8 @@
       "evidence_quote": "And that's why they force you to write six pages in depth about your idea and then it goes in these concentric circles through the company.",
       "guest": "Maggie Crowley",
       "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
-      "youtube_url": "https://www.youtube.com/watch?v=4LjddcccYIo"
+      "youtube_url": "https://www.youtube.com/watch?v=4LjddcccYIo",
+      "start_seconds": 2820
     },
     {
       "cluster_id": 4,
@@ -512,7 +568,8 @@
       "evidence_quote": "But these were just, they're all out there in the public domain. There's no paywall to get access to those.",
       "guest": "Ben Williams",
       "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
-      "youtube_url": "https://www.youtube.com/watch?v=21sFTZzIfUk"
+      "youtube_url": "https://www.youtube.com/watch?v=21sFTZzIfUk",
+      "start_seconds": 1566
     }
   ]
 }

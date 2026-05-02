@@ -74,7 +74,7 @@ export default function InsightCard({ insight }: any) {
         
       {/* Episode title as clickable CTA */}
       <a
-        href={insight.youtube_url}
+        href={insight.start_seconds != null ? `${insight.youtube_url}&t=${insight.start_seconds}s` : insight.youtube_url}
         target="_blank"
         rel="noopener noreferrer"
         style={{
